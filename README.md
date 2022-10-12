@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Full Stack Developing**
 
-- 📝 I regularly write articles on [gamingfornews.blogspot.com](gamingfornews.blogspot.com)
+- 📝 I regularly write articles on [https://gamingfornews.blogspot.com](gamingfornews.blogspot.com)
 
 - 💬 Ask me about **Front End Languages**
 

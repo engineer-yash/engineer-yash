@@ -80,9 +80,9 @@
 ## 📜 Certifications
 
 - 📘 **Professional Blog Creator Badge** (Mar–Apr 2024)  
-  🔗 [Blog 1](https://theonetechnologies.com/blog/post/best-practices-to-follow-for-creating-custom-web-solutions) •  
-  [Blog 2](https://theonetechnologies.com/blog/post/2024-vision-the-future-of-web-development) •  
-  [Blog 3](https://theonetechnologies.com/blog/post/top-5-html-css-tools-to-boost-website-design-and-development-efficiency)
+  🔗 [Blog 1](https://theonetechnologies.com/blog/post/best-practices-to-follow-for-creating-custom-web-solutions)
+  🔗 [Blog 2](https://theonetechnologies.com/blog/post/2024-vision-the-future-of-web-development)
+  🔗 [Blog 3](https://theonetechnologies.com/blog/post/top-5-html-css-tools-to-boost-website-design-and-development-efficiency)
 
 - ⚛️ **React JS Summer Internship – InfoLabz** (Jul–Aug 2023)
 

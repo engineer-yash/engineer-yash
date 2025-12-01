@@ -14,7 +14,9 @@
 
 🎯 Known for solving bugs (95%+ resolution rate), delivering 5+ successful web projects, and continuously learning new tech.
 
-📍 Based in **Rajkot, Gujarat, India**.
+📍 From **Rajkot, Gujarat, India**.
+
+📍 Currently in **Pune, Maharashtra, India**.
 
 ---
 

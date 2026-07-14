@@ -33,7 +33,7 @@
 ## 💼 Experience
 
 ### 🏢 The One Technologies – *Software Engineer Intern*  
-📍 Ahmedabad | *Jan 2024 – Oct 2024*
+📍 Ahmedabad | *Jan 2024 – Dec 2024*
 
 - 🧾 Worked on [SimpleTix](https://www.simpletix.com/): online ticketing and registration platform
 - ✅ Resolved **20+ JIRA tasks**, bug fixes, UI/back-end enhancements
